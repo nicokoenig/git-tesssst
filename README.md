@@ -1,9 +1,3 @@
 # Git Test
 
-ölkjfaölkasdjf
-asdf
-
-asdf
-
-asdf
-asdf
+Git ist super!
